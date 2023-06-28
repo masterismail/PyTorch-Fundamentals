@@ -4,7 +4,8 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "gpuType": "T4"
+      "gpuType": "T4",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -16,6 +17,16 @@
     "accelerator": "GPU"
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/masterismail/PyTorch-Fundamentals/blob/main/PyTorch-Exercises\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "markdown",
       "source": [
@@ -40,7 +51,7 @@
       "metadata": {
         "id": "bGD0oD8Kizak"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -69,7 +80,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 5,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -116,7 +127,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -176,7 +187,7 @@
         "id": "uybNYytHUvVj",
         "outputId": "1eb60642-9d5f-4e3d-a458-3201651547ec"
       },
-      "execution_count": 44,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -221,7 +232,7 @@
         },
         "outputId": "e81030c8-ff52-4d37-e462-77c5c6a804d5"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -278,7 +289,7 @@
         },
         "outputId": "e5b872c2-e031-4016-97d9-dcce39d460e1"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -324,7 +335,7 @@
         },
         "outputId": "7650b165-62aa-47bf-d8f9-6723978ea796"
       },
-      "execution_count": 32,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -361,7 +372,7 @@
         },
         "outputId": "8475579b-134d-4944-a1ce-992f7f6a4f77"
       },
-      "execution_count": 33,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -399,7 +410,7 @@
         },
         "outputId": "d44c462b-1c62-4d3d-e90f-963e03b19083"
       },
-      "execution_count": 34,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -456,7 +467,7 @@
         },
         "outputId": "ffc723e1-d098-49c0-baa7-26f08fb94e3d"
       },
-      "execution_count": 45,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
